@@ -4,6 +4,5 @@
  <hr>
  <h1>
 Welcome to my profile!</h1>
- <hr>
- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffersongibellato&theme=gotham)
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffersongibellato&theme=gotham"/>
 </div>
