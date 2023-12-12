@@ -6,7 +6,7 @@
   <img  src="github-contribution-grid-snake.svg"
     alt="example" />
 </p>
- <h1>
+ <h1 align="center">
 Welcome to my profile!</h1>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffersongibellato&theme=gotham"/>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=345aad&height=120&section=footer"/>
