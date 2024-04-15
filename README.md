@@ -8,8 +8,8 @@
 </p>
  <h1 align="center">
 Welcome to my profile!</h1>
-<p>Email: fellipetereska@gmail.com | 
-Whatsapp: (43) 99959-5962</p>
+<p>Email: jeffersonjrgibellato@gmail.com | 
+Whatsapp: (44) 99123-7809</p>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jeffersongibellato&theme=gotham"/>
  <img src="https://capsule-render.vercel.app/api?type=waving&color=345aad&height=120&section=footer"/>
 </main>
